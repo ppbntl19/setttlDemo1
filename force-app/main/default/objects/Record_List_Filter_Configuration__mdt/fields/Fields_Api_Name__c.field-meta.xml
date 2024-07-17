@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Fields_Api_Name__c</fullName>
+    <description>Add comma separated field API name for the object</description>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <label>Fields Api Name</label>
+    <required>true</required>
+    <type>TextArea</type>
+</CustomField>
